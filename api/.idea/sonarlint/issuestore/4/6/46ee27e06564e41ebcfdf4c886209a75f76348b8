@@ -1,0 +1,6 @@
+
+_squid:HiddenFieldCheckC"=Rename "secretKey" which hides the field declared at line 19.(®¦÷‡
+wsquid:S1488M"aImmediately return this expression instead of assigning it to the temporary variable "secretKey".(¬·¿;
+]squid:S11265"AReplace this if-then-else statement by a single return statement.(’›…¬ýÿÿÿÿ
+^squid:HiddenFieldCheckM"=Rename "secretKey" which hides the field declared at line 19.(¬·¿;
+_squid:HiddenFieldCheck!"=Rename "secretKey" which hides the field declared at line 19.(®¦÷‡
